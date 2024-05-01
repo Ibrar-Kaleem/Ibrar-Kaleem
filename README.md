@@ -3,7 +3,7 @@
 <h2> Power BI Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Sample superStore](https://github.com/Ibrar-Kaleem/SuperStore_US)
 
   
 - <b>SQL Projects</b>
